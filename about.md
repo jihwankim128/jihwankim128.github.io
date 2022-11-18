@@ -6,7 +6,7 @@ permalink: /about/
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Link to another page](./another-page.html). //(./another-page.html 구현 
 
 There should be whitespace between paragraphs.
 
